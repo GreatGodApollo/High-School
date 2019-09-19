@@ -10,5 +10,5 @@ A sport that has combatted participation medals in what I would say is the prope
 ## Body #2 - Devil's Advocate
 Of course, there will be people who argue for the other side, and to them, I say good for you. Many a student would say they want a medal, and that's the only reason they're in a sport, but in my opinion, I would prefer to have a medal that holds meaning in my mind. I have also seen parents complain about their student not receiving a participation ribbon, and every time somebody around them mentions that nobody else got one, and only the top 'x' medal.
 
-# Conclusion
+## Conclusion
 To conclude I believe that participation medals should not be handed out at sporting events, in this way a real medal can hold more value in the eyes of the athlete. Several psychologists have also found that these medals have little to no worth to an athlete when they receive one. As such, medals should only be handed out to the tip-top athletes who deserve to have one.
