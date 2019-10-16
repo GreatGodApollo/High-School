@@ -1,0 +1,34 @@
+# 1A Vocabulario
+- a tiempo - on time
+- alguien - someone, anyone
+- algún, alguna, algunos (-as) - some, any
+- aprender de memoria - to memorize
+- conocer - to know
+- contestar - to answer
+- dar un discurso - to give a speech
+- discutir - to discuss
+- el armario - the locker
+- el asiento - the seat
+- el carnet de identidad - the I.D card
+- el informe - the report
+- el laboratorio - the laboratory
+- el proyecto - the project
+- entregar - to turn in
+- explicar - to explain
+- hacer una pregunta - to ask a question
+- la cinta adhesiva - the adhesive tape
+- la grapadora - the stapler
+- la palabra - the word
+- la regla - the ruler
+- las tijeras - the scissors
+- llegar tarde - to arrive late
+- lo que - what
+- los materiales - the supplies, the materials
+- nadie - no one, nobody
+- ningún, ninguno(-a) - no one, not any
+- pedir (e->i) ayuda - to ask for help
+- prestar atención - to pay attention
+- respetar - to respect
+- sacar una buena nota - to get a good grade
+- se prohíbe - it's forbidden
+- sobre - on, about
