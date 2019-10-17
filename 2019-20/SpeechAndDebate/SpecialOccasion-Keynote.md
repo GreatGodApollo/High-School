@@ -1,0 +1,15 @@
+# Keynote - Technology
+  When I was just a boy, computers were up and coming, beginning to show their true colors. I was lucky enough to be born in a time where Windows XP just began to die, and the era of Windows 7 was born. From the first time I touched a computer, I knew exactly what I wanted to do, and that something is exactly what I have been doing. Being able to watch technology evolve at a high pace, especially being brought in during the craze, was truly an amazing opportunity. Although I was not excellent at programming to begin with, especially considering I was only 6 at the time, I quickly proceded to discover the world of languages and libraries I’d never explored before. 
+  
+  I’m sure many of you here have your own similar story, and that’s great! We all needed to start somewhere, and my place happened to be in front of my family’s Dell All-in-One. ―
+  
+  Enough about me though, as I was invited here today to talk to you about the future of technology, not its past. Innovation has never struck harder, and the internet has never been so tightly integrated into our lives. With Elon Musk using thousands of electrodes to control a computer, and Nvidia bringing real-time ray tracing to the general public, technology is moving swiftly along, and us humans are being left behind. I’ve personally seen this firsthand, with many people around me not fully understanding the new capabilities of their cutting-edge devices. Most manufacturers currently just expect us to understand how to use what we’ve been given. If we’d like to continue to see technology to progress even further positively, we must look at our situation in a slightly different way. Quite quickly those that are in the aging population will outnumber those that are young. If we completely ignore this trend the market may shift in negative ways.
+	
+  As people get older, they become more keen to stick with earlier technology. As this occurs, the market will swing from focusing on those who are trying to set new trends, to those that are still stuck in the past. As different majorities of people form, technology and it’s adventures into change must also conform to the new guidelines. With this may come many problems, but also many potential benefits.
+	
+  Of course, this is only one future out of the infinitely many that may occur. We could be absolutely fine and go the other way, selling even more to the developing market than we are today. If this were to happen we may still have to make compromises that are unforeseen.
+	
+  Although hundreds of millions of different events may occur, one thing is for sure, with our current trends we will gradually see a large share of the market shifting towards older users. I know I will be changing my ways to ensure those who may not be able to look at a website or piece of hardware and know instantly how to use it, are able to use my products. As Harold Abelson once said, 
+  > “Programs must be written for people to read, and only incidentally for machines to execute.” - Harold Abelson
+ 
+ Thank You.
