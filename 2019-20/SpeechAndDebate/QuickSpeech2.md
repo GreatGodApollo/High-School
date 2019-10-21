@@ -1,0 +1,4 @@
+# Quick Speech #2 - Common Sense
+  Common Sense. Written by Thomas Paine in 1775 and 76, it advocated for the Thirteen Colonies' independence from Great Britain. The 49-page pamphlet was published anonymously on January 10, 1776, and was immediately popular. It was sold and distributed all across the colonies, as well as being read aloud in taverns or many public meeting places.
+
+  This pamphlet played a major role in creating a persuasive and impassioned case for independence, which had not yet been given much intellectual consideration. Paine connected leaving Great Britain's rule with common religious beliefs, as a way to present the means of independence to the common American with something almost like a sermon. As is evident, without Thomas Paine, America may not be what it is today.
