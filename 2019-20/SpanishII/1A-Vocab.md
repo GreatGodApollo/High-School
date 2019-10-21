@@ -1,34 +1,39 @@
 # 1A Vocabulario
-- a tiempo - on time
-- alguien - someone, anyone
-- algún, alguna, algunos (-as) - some, any
 - aprender de memoria - to memorize
-- conocer - to know
 - contestar - to answer
 - dar un discurso - to give a speech
 - discutir - to discuss
-- el armario - the locker
-- el asiento - the seat
-- el carnet de identidad - the I.D card
-- el informe - the report
-- el laboratorio - the laboratory
-- el proyecto - the project
-- entregar - to turn in
+- explicar - to explain
+- aprender de memoria - to memorize
+- contestar - to answer
+- dar un discurso - to give a speech
+- discutir - to discuss
 - explicar - to explain
 - hacer una pregunta - to ask a question
-- la cinta adhesiva - the adhesive tape
-- la grapadora - the stapler
-- la palabra - the word
-- la regla - the ruler
-- las tijeras - the scissors
-- llegar tarde - to arrive late
-- lo que - what
-- los materiales - the supplies, the materials
-- nadie - no one, nobody
-- ningún, ninguno(-a) - no one, not any
-- pedir (e->i) ayuda - to ask for help
-- prestar atención - to pay attention
-- respetar - to respect
+- el informe - report
+- el laboratorio - laboratory
+- la palabra - word
+- pedir (e -> i) ayuda - to ask for help
+- el proyecto - project
 - sacar una buena nota - to get a good grade
-- se prohíbe - it's forbidden
+- a tiempo - on time
+- entregar - to turn in
+- llegar tarde - to arrive late
+- prestar atención to - to pay attention
+- la regla - rule
+- respetar - to respect
+- se prohíbe . . . - it's forbidden . . .
+- el armario - locker
+- el asiento - seat
+- el carnet de identidad - I.D. card
+- la cinta adhesiva transparent tape - 
+- la grapadora - stapler
+- los materiales - supplies, materials
+- las tijeras - scissors
+- alquien - someone, anyone
+- algún, alguna, algunos, -as - some, any
+- nadie - no one, nobody
+- ningún, ninguno, -a - no, none, not any
+- conocer (c -> zc) - to know
+- lo que - what
 - sobre - on, about
