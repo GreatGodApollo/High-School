@@ -34,6 +34,6 @@ Hay **tantas** atrices en el ensayo **como** actores.
 ### Actividad 11
 1. Yo tengo tantos amigos como Luz.
 2. Este ãno nosotros tenemos tantos profesores interesantes como el año pasado.
-3. El equipo de fútbol americano tienen tantos partidos como el equipo de básquetbol
-4. Los chicos tienen tantos oportunidades para hacer gimnasia como las chicas.
-5. Hay tengo interés en el club de ajedrez como en el club de ciences.
+3. El equipo de fútbol americano no tiene tantos partidos como el equipo de básquetbol
+4. Los chicos no tienen tantas oportunidades para hacer gimnasia como las chicas.
+5. No hay tanto interés en el club de ajedrez como en el club de ciences.
