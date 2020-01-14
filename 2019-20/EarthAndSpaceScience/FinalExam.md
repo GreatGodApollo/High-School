@@ -27,3 +27,32 @@
   - Raisin-Bread Model
   - Properties of Early Universe (Opaque Universe)
   - Cosmic Microwave Background
+
+## 4: Unit 9: Weather & Climate (39 Questions)
+### The Atmosphere
+- Structure of Atmosphere
+  - Composition & Charactersitics
+- How Atmosphere interacts with other "spheres"
+- How atmopshere moves and the consequences of that movement
+  - How air is different under low and high pressure conditions
+  - Coriolis effect
+
+### Weather Prediction & Modeling
+- Difference between weather & climate
+- Continental vs. Maritime air masses
+- Cold, Warm, Stationary, and Occluded Fronts
+- How air pressure changes at altitude changes
+- How humidity is tied to air pressure
+- How changes in air pressure is tied to wind
+- How air pressure is tied to local weather
+- Technology used to forecast weather
+- How modelling is used to forecast weather
+- Weather symbols
+
+### Climate Change
+- Factors that influence climate
+- Evidence of climate change
+- Natural causes of climate change
+  - Volcanoes, Orbital CHanges, Plate tectonics & Changes to atmospheric composition
+- Effect on Human Civilization
+- What can humans do?
